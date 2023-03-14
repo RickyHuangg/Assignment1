@@ -11,9 +11,20 @@
     font-size: 30px;
     display: flex;
 }
-  
+
+.Topsection {
+    display: flex;
+}
+
+.Searchbar {
+    position: relative;
+    left: 560px;
+    top: 70px;
+}
+
+
 .logo {
-    height: 200px;
+    height: 150px;
     width: 200px;
     display: flex;
 }
