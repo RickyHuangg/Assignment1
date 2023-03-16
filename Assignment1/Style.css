@@ -11,17 +11,52 @@
     font-size: 30px;
     display: flex;
 }
-
-.Topsection {
+/* .Topsection {
     display: flex;
+} */
+.container{
+    position:absolute;
+    top: 50px;
+    left: 700px;
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+    
 }
+.searchBar {
+    left: 500px;
+    height: 10%;
+    width: 100%;
+    max-width: 500px;
+    background: rgba(20, 16, 16, 0.2);
+    display: flex;
+    border-radius:10px;
+    padding:5px 20px;
+}
+.searchBar input{
+    background: transparent;
+    flex:1;
+    border: 0;
+    outline: none;
+    padding:12px 10px;
+    font-size: 20px;
+    color: #06041f;
 
-.Searchbar {
+}
+.searchBar button img {
+    width: 15px;
+}
+.searchBar button {
     position: relative;
-    left: 560px;
-    top: 70px;
-}
+    top: 3px;
+    border:0;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    background-color: #000000;
 
+}
 
 .logo {
     height: 150px;
