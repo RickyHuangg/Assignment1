@@ -11,13 +11,18 @@
     font-size: 30px;
     display: flex;
 }
-/* .Topsection {
+
+.logo {
+    height: 150px;
+    width: 200px;
     display: flex;
-} */
-.container{
+}
+
+
+.searchContent{
     position:absolute;
-    top: 50px;
-    left: 700px;
+    top: 60px;
+    left: 650px;
     display: flex;
     width: 100%;
     min-height: 100vh;
@@ -54,12 +59,21 @@
     width: 40px;
     height: 40px;
     cursor: pointer;
-    background-color: #d70e0e;
+    background-color: #000000;
 
 }
 
-.logo {
-    height: 150px;
-    width: 200px;
-    display: flex;
+.cardImage {
+    margin: auto;
+    display:block;
+    width: 80%;
+}
+
+.featuredText{
+    font-family: 'Lato';font-size: 15px;
+    background: rgb(200, 234, 238);
+    justify-content: center;
+    border-right: 70px;
+    text-align: center;
+
 }
