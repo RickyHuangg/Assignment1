@@ -19,20 +19,20 @@
 
 .Buttons button {
   position: relative;
-  left: 75%;
-  bottom: 80px;
+  left: 70em;
+  bottom: 2em;
   background-color: rgb(17, 17, 18);
   border: none;
   color: white;
-  padding: 1% 1%;
+  padding: 1%;
   font-size: 80%;
   cursor: pointer;
 }
 
 .searchContent {
   position: absolute;
-  top: 60px;
-  left: 35%;
+  top: 3em;
+  left: 20em;
   display: flex;
   width: 100%;
   min-height: 100vh;
@@ -75,7 +75,7 @@
   width: 80%;
 }
 
-.featuredText {
+.featured-text {
   position: relative;
   top: 20px;
   font-family: "Lato";
@@ -112,7 +112,7 @@
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
 }
-.productDesc {
+.product-desc {
   text-align: center;
   color: #060606;
 }
