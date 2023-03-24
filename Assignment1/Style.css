@@ -13,14 +13,15 @@
 }
 
 .logo img {
+  padding: 1em;
   display: flex;
-  width: 15%;
+  width: 17em;
 }
 
 .Buttons button {
   position: relative;
   left: 70em;
-  bottom: 2em;
+  bottom: 7em;
   background-color: rgb(17, 17, 18);
   border: none;
   color: white;
@@ -122,5 +123,6 @@
 
 .btm-txt {
   height: 100vh;
+  background-color: #000000;
   color: #000000;
 }
