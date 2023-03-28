@@ -40,8 +40,9 @@
 .searchContent {
   position: absolute;
   top: 3em;
+  left: 20rem;
   display: flex;
-  width: 100%;
+  width: 50%;
   min-height: 100vh;
 }
 .searchBar {
@@ -77,9 +78,9 @@
 }
 
 .cardImage {
-  margin: 0;
+  margin: auto;
   display: block;
-  width: 60rem;
+  width: 70rem;
 }
 
 .featured-text {
@@ -131,7 +132,7 @@
   height: 15vh;
   background-color: #000000;
   color: #f6f3f3;
-  width: 100%;
+  width: 77rem;
 }
 
 .soc {
