@@ -20,7 +20,8 @@
 
 .Buttons button {
   position: relative;
-  left: 70em;
+  /* left: 70em; */
+  left: 70%;
   bottom: 7em;
   background-color: rgb(17, 17, 18);
   border: none;
@@ -33,7 +34,8 @@
 .searchContent {
   position: absolute;
   top: 3em;
-  left: 20em;
+  /* left: 20em; */
+  left: 35%;
   display: flex;
   width: 100%;
   min-height: 100vh;
@@ -122,7 +124,24 @@
 }
 
 .btm-txt {
-  height: 100vh;
+  height: 15vh;
   background-color: #000000;
-  color: #000000;
+  color: #f6f3f3;
+}
+
+.soc {
+  position: relative;
+  left: 85%;
+  top: 30%;
+}
+
+.me {
+  position: relative;
+  left: 2%;
+  line-height: 2;
+  word-spacing: 2;
+}
+
+.insta {
+  position: relative;
 }
