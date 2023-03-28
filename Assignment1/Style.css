@@ -137,7 +137,7 @@
 
 .soc {
   position: relative;
-  /* left: 85%; */
+  left: 85%;
   top: 30%;
 }
 
@@ -146,4 +146,9 @@
   left: 2%;
   line-height: 2;
   word-spacing: 2;
+}
+
+.insta {
+  width: 5rem;
+  height: 5rem;
 }
