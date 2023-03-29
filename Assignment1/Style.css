@@ -28,7 +28,7 @@
   position: relative;
   /* left: 70em; */
   left: 70%;
-  bottom: 7em;
+  bottom: 5em;
   background-color: rgb(17, 17, 18);
   border: none;
   color: white;
@@ -40,7 +40,7 @@
 .searchContent {
   position: absolute;
   top: 3em;
-  left: 20rem;
+  left: 22rem;
   display: flex;
   width: 50%;
   min-height: 100vh;
