@@ -77,6 +77,22 @@
   background-color: #000000;
 }
 
+.nav-bar {
+  position: relative;
+  bottom: 2rem;
+  display: flex;
+  gap: 2rem;
+  text-align: center;
+  justify-content: center;
+}
+
+a {
+  color: rgb(12, 11, 11);
+  text-decoration: none;
+  font-family: "Lato";
+  font-size: large;
+}
+
 .cardImage {
   margin: auto;
   display: block;
@@ -146,9 +162,4 @@
   left: 2%;
   line-height: 2;
   word-spacing: 2;
-}
-
-.insta {
-  width: 5rem;
-  height: 5rem;
 }
