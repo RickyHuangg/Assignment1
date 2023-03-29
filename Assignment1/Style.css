@@ -87,7 +87,7 @@
 }
 
 a {
-  color: rgb(12, 11, 11);
+  color: rgb(155, 146, 146);
   text-decoration: none;
   font-family: "Lato";
   font-size: large;
@@ -96,7 +96,7 @@ a {
 .cardImage {
   margin: auto;
   display: block;
-  width: 70rem;
+  width: 50rem;
 }
 
 .featured-text {
@@ -148,13 +148,14 @@ a {
   height: 15vh;
   background-color: #000000;
   color: #f6f3f3;
-  width: 77rem;
+  width: 100%;
 }
 
 .soc {
   position: relative;
-  left: 85%;
+  left: 75%;
   top: 30%;
+  width: 10rem;
 }
 
 .me {
@@ -162,4 +163,5 @@ a {
   left: 2%;
   line-height: 2;
   word-spacing: 2;
+  width: 80%;
 }
