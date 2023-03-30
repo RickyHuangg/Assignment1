@@ -93,7 +93,7 @@ a {
   font-size: large;
 }
 
-.cardImage {
+.card-Image {
   margin: auto;
   display: block;
   width: 50rem;
@@ -121,7 +121,7 @@ a {
   border-radius: 20px;
 }
 
-.productContainer {
+.product-Container {
   position: relative;
   padding: 4rem;
   display: grid;
