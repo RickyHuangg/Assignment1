@@ -26,7 +26,6 @@
 
 .Buttons button {
   position: relative;
-  /* left: 70em; */
   left: 70%;
   bottom: 5em;
   background-color: rgb(17, 17, 18);
@@ -126,7 +125,6 @@ a {
   padding: 4rem;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  /* grid-template-columns: auto auto auto auto; */
   gap: 5%;
 }
 .product img {
